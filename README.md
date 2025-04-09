@@ -31,22 +31,16 @@
 
 ---
 
-<h2>🚧 Projects</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Coming_Soon-FFDD57?style=for-the-badge&logo=hourglass-start&logoColor=black"/>
-</p>
-<p align="center">
-  <strong>✨ With LIKE LION YU ✨</strong>
-</p>
-
 
 
 <h2>🚧 Projects</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Coming_Soon-FFDD57?style=for-the-badge&logo=hourglass-start&logoColor=black" style="transform: scale(1.3);" />
+  <img src="https://img.shields.io/badge/Coming_Soon-FFDD57?style=for-the-badge&logo=hourglass-start&logoColor=black" style="transform: scale(1.4);" />
 </p>
 
 <p align="center">
-  <strong><span style="font-size: 1.4rem;">✨ With LIKE LION YU ✨</span></strong>
+  <strong>
+    <span style="font-size: 2.2rem;">✨ With LIKE LION YU ✨</span>
+  </strong>
 </p>
