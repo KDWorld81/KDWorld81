@@ -32,12 +32,12 @@
 ## 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black" />
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-ffffff?style=flat-square&logo=intellijidea&logoColor=000000" />
-  <img src="https://img.shields.io/badge/VS Code-ffffff?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Visual Studio-ffffff?style=flat-square&logo=visualstudio&logoColor=5C2D91" />
-  <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="48" height="48"/>
 </p>
 
 
