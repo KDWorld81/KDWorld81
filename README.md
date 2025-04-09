@@ -29,16 +29,17 @@
 
 ---
 
-<h2>🛠️ Tools & Platforms</h2>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" style="background-color:#2b2b2b; padding:10px; border-radius:20%; margin:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="60" style="background-color:#ffffff; padding:10px; border-radius:20%; margin:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" style="background-color:#007ACC; padding:10px; border-radius:20%; margin:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" style="background-color:#5c2d91; padding:10px; border-radius:20%; margin:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" style="background-color:#f05033; padding:10px; border-radius:20%; margin:8px;" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white&labelColor=ffffff" />
+## 🛠️ Tools & Platforms
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-ffffff?style=flat-square&logo=intellijidea&logoColor=000000" />
+  <img src="https://img.shields.io/badge/VS Code-ffffff?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Visual Studio-ffffff?style=flat-square&logo=visualstudio&logoColor=5C2D91" />
+  <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=F05032" />
+</p>
+
 
 
 ---
