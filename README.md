@@ -36,7 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" style="background-color:#007ACC; padding:10px; border-radius:20%; margin:8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" style="background-color:#5c2d91; padding:10px; border-radius:20%; margin:8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" style="background-color:#f05033; padding:10px; border-radius:20%; margin:8px;" />
-  <img src="https://img.icons8.com/ios-filled/100/000000/github.png" width="60" style="background-color:#ffffff; padding:10px; border-radius:20%; margin:8px;" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white&labelColor=ffffff" />
+
 </div>
 
 
