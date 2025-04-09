@@ -33,15 +33,20 @@
 
 
 
-<h2>🚧 Projects</h2>
+<h2 style="text-align:center; font-size: 2rem;">🚧 Projects</h2>
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✨%20Coming%20Very%20Soon!-fcd34d?style=for-the-badge&logoColor=black&labelColor=fde68a&color=fbbf24" style="transform: scale(1.5);" />
+  <img src="https://img.shields.io/badge/COMING_SOON-000000?style=for-the-badge&logo=hourglass-start&logoColor=gold&labelColor=000000&color=000000" 
+       style="transform: scale(1.4); border: 2px solid gold; border-radius: 8px;" />
 </p>
+
 
 <p align="center">
   <strong>
-    <span style="font-size: 32px;">✨ With LIKE LION YU ✨</span>
+    <span style="font-size: 2.4rem; font-weight: 800; color: #222; letter-spacing: 1px; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
+      ✨ WITH LIKE LION YU ✨
+    </span>
   </strong>
 </p>
 
