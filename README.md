@@ -25,8 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" style="background-color:#007ACC; padding:10px; border-radius:20%; margin:8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" style="background-color:#5c2d91; padding:10px; border-radius:20%; margin:8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" style="background-color:#f05033; padding:10px; border-radius:20%; margin:8px;" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="60" style="background-color:#ffffff; padding:10px; border-radius:20%; margin:8px;" />
+  <img src="https://img.icons8.com/ios-filled/100/000000/github.png" width="60" style="background-color:#ffffff; padding:10px; border-radius:20%; margin:8px;" />
 </div>
+
 
 ---
 
@@ -40,9 +41,12 @@
 
 
 
-</p>
+<h2>🚧 Projects</h2>
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDWorld81&layout=compact&theme=tokyonight" />
-  </a>
+  <img src="https://img.shields.io/badge/Coming_Soon-FFDD57?style=for-the-badge&logo=hourglass-start&logoColor=black" style="transform: scale(1.3);" />
+</p>
+
+<p align="center">
+  <strong><span style="font-size: 1.4rem;">✨ With LIKE LION YU ✨</span></strong>
 </p>
