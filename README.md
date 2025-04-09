@@ -23,6 +23,16 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+## 🚧 Projects
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coming_Soon-FFDD57?style=for-the-badge&logo=hourglass-start&logoColor=black"/>
+</p>
+
+<p align="center">
+  <strong>✨ With LIKE LION YU ✨</strong>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
