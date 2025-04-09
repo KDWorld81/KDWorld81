@@ -37,14 +37,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/COMING_SOON-000000?style=for-the-badge&logo=hourglass-start&logoColor=gold&labelColor=000000&color=000000" 
-       style="transform: scale(1.4); border: 2px solid gold; border-radius: 8px;" />
+  <img src="https://img.shields.io/badge/!COMING_SOON!-000000?style=for-the-badge&logo=hourglass-start&logoColor=gold&labelColor=000000&color=000000" 
+       style="transform: scale(2.4); border: 2px solid gold; border-radius: 8px;" />
 </p>
 
 
 <p align="center">
   <strong>
-    <span style="font-size: 2.4rem; font-weight: 800; color: #222; letter-spacing: 1px; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
+    <span style="font-size: 3.4rem; font-weight: 800; color: #222; letter-spacing: 1px; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
       ✨ WITH LIKE LION YU ✨
     </span>
   </strong>
