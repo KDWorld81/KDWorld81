@@ -29,7 +29,7 @@
 
 ---
 
-<h2>🛠️ Tools I Use</h2>
+<h2>🛠️ Tools & Platforms</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" style="background-color:#2b2b2b; padding:10px; border-radius:20%; margin:8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="60" style="background-color:#ffffff; padding:10px; border-radius:20%; margin:8px;" />
