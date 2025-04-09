@@ -1,32 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20KDW%20World!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20KDW%20World!&fontSize=80)
 
-## 🌟 Languages I Use
-<div style="display: flex; gap: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" style="background-color: white; padding: 8px; border-radius: 12px;" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" style="background-color: white; padding: 8px; border-radius: 12px;" alt="c"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" style="background-color: white; padding: 8px; border-radius: 12px;" alt="cplusplus"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" style="background-color: white; padding: 8px; border-radius: 12px;" alt="java"/>
-</div>
+## 🌟 Languages I Use | 📖 Currently Learning | 🛠️ Tools I Use
 
-## 📖 Currently Learning
-<div style="display: flex; gap: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="50" style="background-color: white; padding: 8px; border-radius: 12px;" alt="spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" width="50" style="background-color: white; padding: 8px; border-radius: 12px;" alt="postman"/>
-</div>
+| Languages I Use | Currently Learning | Tools I Use |
+|:----------------:|:------------------:|:-----------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <br> Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/> <br> Spring Boot | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/> <br> Git |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/> <br> C | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/> <br> Postman | <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="50"/> <br> GitHub |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/> <br> C++ |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/> <br> VS Code |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <br> Java |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/> <br> Visual Studio |
+|  |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50"/> <br> IntelliJ |
+|  |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50"/> <br> Notion |
 
-## 🛠️ Tools I Use
-<div style="display: flex; gap: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" style="background-color: white; padding: 8px; border-radius: 12px;" alt="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" style="background-color: white; padding: 8px; border-radius: 12px;" alt="github"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" style="background-color: white; padding: 8px; border-radius: 12px;" alt="vscode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" width="50" style="background-color: white; padding: 8px; border-radius: 12px;" alt="visualstudio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" width="50" style="background-color: white; padding: 8px; border-radius: 12px;" alt="intellij"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="50" width="50" style="background-color: white; padding: 8px; border-radius: 12px;" alt="notion"/>
-</div>
+---
 
 ## 🚧 Projects
 <p align="center">
   <img src="https://img.shields.io/badge/Coming_Soon-FFDD57?style=for-the-badge&logo=hourglass-start&logoColor=black"/>
+</p>
+<p align="center">
+  <strong>✨ With LIKE LION YU ✨</strong>
 </p>
 
 <p align="center">
