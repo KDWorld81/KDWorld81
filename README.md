@@ -1,16 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20KDW%20World!&fontSize=80)
 
-## 👋 About Me
-
-• I am a sophomore majoring in **Computer Science**.  
-• I have a strong interest in **software development** and **problem solving**.  
-• I’m currently studying **Java**, **Spring Boot**, and **Databases**.  
-• My goal is to:  
-  • Understand the **overall flow of programs**.  
-  • Write **clean and logical code**.  
-  • Respond well to **errors and bugs** when they occur.  
-• I am constantly learning and growing as a developer. 🌱  
-
 <h2>🌟 Languages I Use</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="background-color:#3776AB; padding:10px; border-radius:20%; margin:8px;" />
