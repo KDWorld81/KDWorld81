@@ -13,8 +13,6 @@
 <h2>📖 Currently Learning</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" style="background-color:#6DB33F; padding:10px; border-radius:20%; margin:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" style="background-color:#FF6C37; padding:10px; border-radius:20%; margin:8px;" />
-</div>
 
 ---
 ## 🛠️ Tools & Platforms
