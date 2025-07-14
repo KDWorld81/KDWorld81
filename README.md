@@ -2,9 +2,6 @@
 
 <h2>🌟 Languages I Use</h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="background-color:#3776AB; padding:10px; border-radius:20%; margin:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" style="background-color:#A8B9CC; padding:10px; border-radius:20%; margin:8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" style="background-color:#00599C; padding:10px; border-radius:20%; margin:8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" style="background-color:#f89820; padding:10px; border-radius:20%; margin:8px;" />
 </div>
 
