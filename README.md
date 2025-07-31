@@ -1,15 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20KDW%20World!&fontSize=80)
 
-<h2>🌟 Languages I Use</h2>
+<h2>🌟 Languages & Framework</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" style="background-color:#f89820; padding:10px; border-radius:20%; margin:8px;" />
+  <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" style="background-color:#6DB33F; padding:10px; border-radius:20%; margin:8px;" />
 </div>
 
 ---
 
-<h2>📖 Currently Learning</h2>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" style="background-color:#6DB33F; padding:10px; border-radius:20%; margin:8px;" />
 
 ---
 ## 🛠️ Tools & Platforms
