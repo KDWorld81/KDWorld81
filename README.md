@@ -39,7 +39,8 @@
 <p align="center">
   <strong>
     <span style="font-size: 3.4rem; font-weight: 800; color: #222; letter-spacing: 1px; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">
-      ✨ Coming Soon ✨
+      ✨ Il - Kan ✨
+    ✨ With HighFive ✨
     </span>
   </strong>
 </p>
