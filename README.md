@@ -71,6 +71,7 @@
 ## 🏆 Projects
 
 ### 📌 [Il-Kan (일칸)](https://github.com/KDWorld81/ILKAN-was/tree/main) – 일자리 매칭 및 공실문제 해결 프로젝트
+### 🙇 [Team] - 멋쟁이 사자처럼 , HighFive
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
