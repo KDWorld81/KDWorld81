@@ -1,9 +1,9 @@
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?KDWorld81=깃허브아이디&show_icons=true&count_private=true&hide=prs&theme=solarized-light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KDWorld81&show_icons=true&count_private=true&hide=prs&theme=solarized-light)
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?KDWorld81=깃허브아이디&langs_count=5&theme=solarized-light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDWorld81&langs_count=5&theme=solarized-light)
 
 <h2>🌟 Languages & Framework</h2>
 <div align="center">
