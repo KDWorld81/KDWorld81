@@ -2,7 +2,7 @@
 <table>
   <tr>
     <!-- 왼쪽: 프로필 / 블로그 -->
-    <td width="30%" valign="top">
+    <td width="40%" valign="top">
 
 <h3>🐣 KDWorld 🐣</h3>
 
