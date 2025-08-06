@@ -14,7 +14,7 @@
 </td>
 
 <!-- 오른쪽: GitHub Stats -->
-<td width="40%" valign="top">
+<td width="60%" valign="top">
 
 <h4>📈 KDWorld’s GitHub Stats</h4>
 
