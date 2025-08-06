@@ -67,7 +67,7 @@
 
 ---
 
-## 🧩 Featured Project
+## 🧩 Projects
 
 ### 📌 [Il-Kan (일칸)](https://github.com/KDWorld81/ILKAN-was/tree/main) – 일자리 매칭 및 공실문제 해결 프로젝트
 
