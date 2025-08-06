@@ -7,9 +7,9 @@
 <h3>🐣 KDWorld 🐣</h3>
 
 
-🍏 [KDWorld.log](https://velog.io/@kdworld-_-/posts)
+🐣 [KDWorld.log](https://velog.io/@kdworld-_-/posts) 🐣
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=KDWorld)](https://velog.io/@kdworld-_-/posts)
+🐣  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=KDWorld)](https://velog.io/@kdworld-_-/posts) 🐣
 
 ---
 
