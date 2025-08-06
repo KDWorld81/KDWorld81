@@ -1,9 +1,9 @@
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KDWorld81&show_icons=true&count_private=true&hide=prs&theme=solarized-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KDWorld81&show_icons=true&count_private=true&hide=prs&theme=blue_navy)
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDWorld81&langs_count=5&theme=solarized-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDWorld81&langs_count=5&theme=blue_navy)
 
 <h2>🌟 Languages & Framework</h2>
 <div align="center">
