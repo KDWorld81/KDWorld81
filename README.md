@@ -2,7 +2,7 @@
 <table>
   <tr>
     <!-- 왼쪽: 프로필 / 블로그 -->
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
 
 <h3>🐣 KDWorld 🐣</h3>
 
@@ -14,7 +14,7 @@
 </td>
 
 <!-- 오른쪽: GitHub Stats -->
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 <h4>📈 KDWorld’s GitHub Stats</h4>
 
