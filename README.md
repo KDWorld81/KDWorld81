@@ -70,8 +70,7 @@
 
 ## 🏆 Projects
 
-### 📌 [Il-Kan (일칸)](https://github.com/KDWorld81/ILKAN-was/tree/main) – 일자리 매칭 및 공실문제 해결 프로젝트
-### 🙇 [Team] - [멋쟁이 사자처럼](https://github.com/Likelion-YeungNam-Univ), [HighFive](https://github.com/orgs/Likelion-YeungNam-Univ/teams/13th-highfive)
+### 📌 [Il-Kan (일칸)](https://github.com/KDWorld81/ILKAN-was/tree/main) – 🙇 [Team] - [멋쟁이 사자처럼](https://github.com/Likelion-YeungNam-Univ), [HighFive](https://github.com/orgs/Likelion-YeungNam-Univ/teams/13th-highfive)
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -82,7 +81,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-> **Il-Kan**은 일거리 매칭과 공간 활용도를 높이는 것을 목표로 한 **공실 문제 해결형 플랫폼**입니다.  
+> **Il-Kan**은 일거리 매칭과 공간 활용도를 높이는 것을 목표로 한 **일자리 매칭 및 공실 문제 해결형 플랫폼**입니다.  
 
 
 ---
