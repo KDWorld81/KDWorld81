@@ -70,7 +70,7 @@
 
 ## 🏆 Projects
 
-### 📌 [Il-Kan (일칸)](https://github.com/KDWorld81/ILKAN-was/tree/main) – 🙇 [Team](https://github.com/orgs/Likelion-YeungNam-Univ/teams/13th-highfive)
+### 📌 [Il-Kan (일칸)](https://github.com/KDWorld81/ILKAN-was/tree/main) –  [Team](https://github.com/orgs/Likelion-YeungNam-Univ/teams/13th-highfive)
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
