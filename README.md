@@ -67,18 +67,8 @@
 
 ## 🏆 Projects
 
-### 📌 [Il-Kan (일칸)](https://github.com/KDWorld81/ILKAN-was/tree/main) –  [Team](https://github.com/orgs/Likelion-YeungNam-Univ/teams/13th-highfive)
+ 📌 [Il-Kan (일칸)](https://github.com/KDWorld81/ILKAN-was/tree/main) –  [Team](https://github.com/orgs/Likelion-YeungNam-Univ/teams/13th-highfive)
 
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-> **Il-Kan**은 일거리 매칭과 공간 활용도를 높이는 것을 목표로 한 **일자리 매칭 및 공실 문제 해결형 플랫폼**입니다.  
 
 
 ---
