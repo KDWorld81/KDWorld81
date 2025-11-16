@@ -1,46 +1,4 @@
-<!-- 전체 화면 구성 -->
-<table>
-  <tr>
-    <!-- 왼쪽: 프로필 / 블로그 -->
-    <td width="30%" valign="top">
 
-<h3>🐣 KDWorld 🐣</h3>
-
-
-🐣 [KDWorld.log](https://velog.io/@kdworld-_-/posts) 🐣
-  
-🐣  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=KDWorld)](https://velog.io/@kdworld-_-/posts) 🐣
-
----
-
-</td>
-
-<!-- 오른쪽: GitHub Stats -->
-<td width="70%" valign="top">
-
-<h4>📈 KDWorld’s GitHub Stats</h4>
-
-<img src="https://github-readme-stats.vercel.app/api?username=KDWorld81&show_icons=true&theme=radical&hide_title=true&count_private=true" width="100%" />
-
-</td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <!-- 왼쪽: Most Used Languages -->
-    <td width="50%" valign="top">
-
-<h4>🎯 Most Used Languages</h4>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDWorld81&layout=compact&theme=radical&hide_title=true" width="100%"/>
-
-</td>
-
-<!-- 오른쪽: Currently in Use -->
-<td width="50%" valign="top">
 
 <h4>💻 Currently in Use</h4>
 
@@ -68,6 +26,8 @@
 ## 🏆 Projects
 
  📌 [Il-Kan (일칸)](https://github.com/KDWorld81/ILKAN-was/tree/main) –  [Team](https://github.com/orgs/Likelion-YeungNam-Univ/teams/13th-highfive)
+ 
+ 📌 [STAGE-ON](https://github.com/KDWorld81/stage_on_WAS/tree/develop) - [Team](https://github.com/orgs/stage-on/people)
 
 
 
