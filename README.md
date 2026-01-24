@@ -55,10 +55,10 @@
 
 ## 🏆 Projects
 
- 📌 [Il-Kan (일칸)](https://github.com/KDWorld81/ILKAN-was/tree/main) –  [Team](https://github.com/orgs/Likelion-YeungNam-Univ/teams/13th-highfive)
+ 📌  [Ex-Log](https://github.com/KDWorld81/Ex-Log)
  
  📌 [STAGE-ON](https://github.com/KDWorld81/stage_on_WAS/tree/develop) - [Team](https://github.com/orgs/stage-on/people)
-
-
+ 
+ 📌 [Il-Kan (일칸)](https://github.com/KDWorld81/ILKAN-was/tree/main) –  [Team](https://github.com/orgs/Likelion-YeungNam-Univ/teams/13th-highfive)
 
 ---
