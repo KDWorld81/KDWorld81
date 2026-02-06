@@ -53,12 +53,12 @@
 
 ---
 
-## 🏆 Projects
+## 💻 Projects
 
- 📌  [Ex-Log](https://github.com/KDWorld81/Ex-Log)
+ | [Ex-Log](https://github.com/KDWorld81/Ex-Log)
  
- 📌 [STAGE-ON](https://github.com/KDWorld81/stage_on_WAS/tree/develop) - [Team](https://github.com/orgs/stage-on/people)
+ | [STAGE ON - 사이드 프로젝트](https://github.com/KDWorld81/stage_on_WAS/tree/develop)
  
- 📌 [Il-Kan (일칸)](https://github.com/KDWorld81/ILKAN-was/tree/main) –  [Team](https://github.com/orgs/Likelion-YeungNam-Univ/teams/13th-highfive)
+ | [Il Kan - 멋쟁이 사자처럼 중앙 해커톤](https://github.com/KDWorld81/ILKAN-was/tree/main) 
 
 ---
