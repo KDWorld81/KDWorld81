@@ -55,6 +55,8 @@
 
 ## 💻 Projects
 
+ | [Zigu - 실사용 P2P 서비스](https://github.com/CJ-DW-DUO/Zigu_WAS)
+
  | [Ex-Log](https://github.com/KDWorld81/Ex-Log)
  
  | [STAGE ON - 사이드 프로젝트](https://github.com/KDWorld81/stage_on_WAS/tree/develop)
