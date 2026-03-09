@@ -22,6 +22,7 @@
       <!-- Database -->
       <td align="center" width="140">
         <div><img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/></div>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/></div>
       </td>
       <!-- Deployment -->
       <td align="center" width="140">
